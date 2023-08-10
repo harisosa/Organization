@@ -513,24 +513,26 @@
     ]
   },
   "packageFolders": {
-    "/home/tortoise/.nuget/packages/": {}
+    "C:\\Users\\OS3-club\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/tortoise/Documents/git/Organization/organization.csproj",
+      "projectUniqueName": "C:\\Users\\OS3-club\\Documents\\vodus\\Organization\\organization.csproj",
       "projectName": "organization",
-      "projectPath": "/home/tortoise/Documents/git/Organization/organization.csproj",
-      "packagesPath": "/home/tortoise/.nuget/packages/",
-      "outputPath": "/home/tortoise/Documents/git/Organization/obj/",
+      "projectPath": "C:\\Users\\OS3-club\\Documents\\vodus\\Organization\\organization.csproj",
+      "packagesPath": "C:\\Users\\OS3-club\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\OS3-club\\Documents\\vodus\\Organization\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/tortoise/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\OS3-club\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -581,7 +583,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.109/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
